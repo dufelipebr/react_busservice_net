@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cl+7iXPlPmyJpPo9c89kaVhRvrRR8LBPYqb9eYF8zLk=",
+  "Source": "api_azure_bus_service",
+  "BasePath": "_content/api_azure_bus_service",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
